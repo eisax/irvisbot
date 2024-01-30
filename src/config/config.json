@@ -1,0 +1,10 @@
+{
+    "name": "Irvis Mate",
+    "filename": {
+        "mp3": "audio",
+        "mp4": "video"
+    },
+    "prefix": "#",
+    "timezone": "Africa/Harare",
+    "groups": false
+}

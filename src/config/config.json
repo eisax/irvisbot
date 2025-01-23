@@ -1,10 +1,10 @@
 {
-    "name": "Irvis Mate",
+    "name": "YouTubeDLBOT",
     "filename": {
-        "mp3": "audio",
-        "mp4": "video"
+        "mp3": "youtubedl",
+        "mp4": "youtubedl"
     },
-    "prefix": "#",
-    "timezone": "Africa/Harare",
+    "prefix": "!",
+    "timezone": "Asia/Jakarta",
     "groups": false
 }
